@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "name": "WhatsApp Messenger",
+    "description": "App de mensagens rápido e seguro.",
+    "package": "com.whatsapp",
+    "downloads": "5B+",
+    "kind": "APK",
+    "icon": "https://play-lh.googleusercontent.com/Gqxk4T0uZsDwFp07DE-508hkyvcNmgFuRwPiwTEfF7D7OzGv1FdHDzEyMxNsSBZLOJlGpe3ULvVM2RgrRAlBqA",
+    "download": "https://exemplo.com/whatsapp.apk"
+  },
+  {
+    "name": "Subway Surfers",
+    "description": "Corra pelos trilhos e escape do guarda!",
+    "package": "com.kiloo.subwaysurf",
+    "downloads": "1B+",
+    "kind": "JOGO",
+    "icon": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/1c920b9279c2bedec567c1b58129ae8f/subway-surfers-logo.png",
+    "download": "https://exemplo.com/subway.apk"
+  }
+]
