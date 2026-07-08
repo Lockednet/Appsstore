@@ -16,5 +16,20 @@
     "kind": "JOGO",
     "icon": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/1c920b9279c2bedec567c1b58129ae8f/subway-surfers-logo.png",
     "download": "https://exemplo.com/subway.apk"
-  }
+  },
+  {
+    "name": "Little Nightmare",
+    "description": "Disponível primeiramente para PC e consoles, o conto de aventuras de terror Little Nightmares agora está disponível para dispositivos móveis!
+Mergulhe em Little Nightmares, um conto sombrio e extravagante que confrontará você com seus medos de infância!
+Ajude Six a escapar da Bocarra, um navio vasto e misterioso habitado por almas corrompidas em busca da próxima refeição.
+Conforme você avança na jornada, explore a casa de bonecas mais perturbadora que oferece uma prisão de onde fugir e um parquinho cheio de segredos para descobrir.
+Reconecte-se com sua criança interior para soltar a imaginação e encontrar a saída!
+Little Nightmares apresenta uma mistura sutil de ação, mecânica de plataforma e quebra-cabeças enraizada em uma direção artística misteriosa e design de som assustador.
+Esgueire-se para fora do labirinto sombrio da Bocarra e fuja dos habitantes corrompidos para fugir dos seus medos de infância.",
+    "package": "com.playdigious.littlenightmare",
+    "downloads": "1M+",
+    "kind": "JOGO",
+    "icon": "https://play-lh.googleusercontent.com/Gqxk4T0uZsDwFp07DE-508hkyvcNmgFuRwPiwTEfF7D7OzGv1FdHDzEyMxNsSBZLOJlGpe3ULvVM2RgrRAlBqA",
+    "download": "https://mega.nz/file/5idiyQBQ#eQ4I1991YRsLgCRa14plTwfbcxxZZa4VcSgGsUeSM1E"
+  },
 ]
