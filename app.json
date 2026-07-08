@@ -48,5 +48,15 @@
     "kind": "APK",
     "icon": "https://cdn2.steamgriddb.com/icon_thumb/6452782166334798a0364267bcc94422.png",
     "download": "https://mega.nz/file/QvEFWLaD#ZqsLkHMO302UUKeM9a7eaUERb5XECWLupZzDfOizV0s"
+  },
+  {
+    "name": "XCIPTV",
+    "Tamanho": "99 MB",
+    "description": "XCIPTV tem dois reprodutores de mídia integrados: ExoPlayer e VLC Player. Esses players são capazes de transmitir seu conteúdo usando a tecnologia de transmissão adaptável HLS (HTTP Live Streaming), garantindo uma reprodução suave e de alta qualidade, independentemente da velocidade da conexão de rede contratada.",
+    "package": "com.nathnetwork.xciptv",
+    "downloads": "3M+",
+    "kind": "APK",
+    "icon": "https://play-lh.googleusercontent.com/tjOabfZ3dXAOppuHCyUaTehPvO7dPwv5DNggDQRrCg2bFZLNalPsgWwGvWbjWx-uziCZMPzGXCHm5buW9wrF4g",
+    "download": "https://mega.nz/file/Um0k1LTD#z93vipb3uiTO-qt3_0qRwtBqpaXJL5mqFiriMF4REOI"
   }
 ]
