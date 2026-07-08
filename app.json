@@ -38,5 +38,15 @@
   "kind": "JOGO",
   "icon": "https://img.tapimg.net/market/images/FrMkdumlMozlmzkAPFqqD1yGwoOJ.jpg",
   "download": "https://mega.nz/file/d28FBDpT#5PdJYEq2YQL-8-ESiSZQr8nf5aDsfStKkbrQzf_ql1M"
-}
+},
+  {
+    "name": "EPSXE Emulador PS1",
+    "Tamanho": "12 MB",
+    "description": "ePSXe para Android é um emulador de Playstation (PSX e PSOne). É um port do famoso ePSXe para PC. ePSXe tem compatibilidade muito alta (>99%), boa velocidade e um som quase identico ao original. Foi criado para Smartphones e Tablets, é possivel jogar de 1 a 4 pessoas, incluindo o divertido modo de 2 jogadores com tela dividida. Vem com suporte a controle virtual incluido (com suporte ao eixo analógico), é possivel também mapear Controles físicos (Xperia Play, aparelhos com teclado físico e ate mesmo controles externos, por bluetooth ou USB como o WiiMote, Sixaxis, Xbox 360, Moga, Ipega, entre outros). ePSXe suporta OpenGL HD para melhores graficos graças ao Plugin Peopsxgl, codigos e Savestates (também conhecido como salvar estado) e memory cars todos compativeis com a versão de PC. ePSXe inclui suporte nativo a arquitetura ARM e Intel Atom X86. ",
+    "package": "com.epsxe.ePSXe",
+    "downloads": "1B+",
+    "kind": "APK",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/6452782166334798a0364267bcc94422.png",
+    "download": "https://mega.nz/file/QvEFWLaD#ZqsLkHMO302UUKeM9a7eaUERb5XECWLupZzDfOizV0s"
+  },
 ]
