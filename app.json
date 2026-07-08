@@ -1,6 +1,7 @@
 [
   {
     "name": "WhatsApp Messenger",
+    "Tamanho": "45 MB",
     "description": "App de mensagens rápido e seguro.",
     "package": "com.whatsapp",
     "downloads": "5B+",
@@ -10,6 +11,7 @@
   },
   {
     "name": "Subway Surfers",
+    "Tamanho": "45 MB",
     "description": "Corra pelos trilhos e escape do guarda!",
     "package": "com.kiloo.subwaysurf",
     "downloads": "1B+",
@@ -19,6 +21,7 @@
   },
   {
     "name": "Little Nightmare",
+    "Tamanho": "1,5 GB",
     "description": "Disponível primeiramente para PC e consoles, o conto de aventuras de terror Little Nightmares agora está disponível para dispositivos móveis!\nMergulhe em Little Nightmares, um conto sombrio e extravagante que confrontará você com seus medos de infância!\nAjude Six a escapar da Bocarra, um navio vasto e misterioso habitado por almas corrompidas em busca da próxima refeição.\nConforme você avança na jornada, explore a casa de bonecas mais perturbadora que oferece uma prisão de onde fugir e um parquinho cheio de segredos para descobrir.\nReconecte-se com sua criança interior para soltar a imaginação e encontrar a saída!\nLittle Nightmares apresenta uma mistura sutil de ação, mecânica de plataforma e quebra-cabeças enraizada em uma direção artística misteriosa e design de som assustador.\nEsgueire-se para fora do labirinto sombrio da Bocarra e fuja dos habitantes corrompidos para fugir dos seus medos de infância.",
     "package": "com.playdigious.littlenightmare",
     "downloads": "1M+",
