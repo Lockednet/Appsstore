@@ -44,7 +44,7 @@
   {
     "name": "Little Nightmare",
     "Tamanho": "1,5 GB",
-    
+    "categoria": "Aventura",
     "description": "Little Nightmares agora está disponível para dispositivos móveis!\nMergulhe em Little Nightmares, um conto sombrio e extravagante que confrontará você com seus medos de infância!\nAjude Six a escapar da Bocarra, um navio vasto e misterioso habitado por almas corrompidas em busca da próxima refeição.\nConforme você avança na jornada, explore a casa de bonecas mais perturbadora que oferece uma prisão de onde fugir e um parquinho cheio de segredos para descobrir.\nReconecte-se com sua criança interior para soltar a imaginação e encontrar a saída!\nLittle Nightmares apresenta uma mistura sutil de ação, mecânica de plataforma e quebra-cabeças enraizada em uma direção artística misteriosa e design de som assustador.\nEsgueire-se para fora do labirinto sombrio da Bocarra e fuja dos habitantes corrompidos para fugir dos seus medos de infância.",
     "capitura1": "https://cdn.awsli.com.br/2500x2500/2693/2693981/produto/247592940/little-nightmares-ps4-midia-digital-c307f35b-bbjz3uz8lk.jpg",
     "capitura2": "https://1gr.cz/fotky/idnes/17/043/c460/BZE6ad2ec_littlenightmares_20170422202820.jpg",
@@ -58,6 +58,7 @@
   {
     "name": "Hollow Knight",
     "Tamanho": "1 GB",
+    "categoria": "Aventura",
     "description": "Hollow Knight: Silksong convida você a assumir o papel da letal caçadora Hornet em uma jornada por um vasto e misterioso reino tecido de seda e canções. Capturada e levada contra sua vontade para esta terra estranha, Hornet precisa enfrentar inimigos temíveis, desvendar segredos ancestrais e ascender à brilhante cidadela no ápice do reino.\n\nEsta sequência épica do premiado Hollow Knight oferece novos mundos deslumbrantes para explorar, combates acrobáticos repletos de movimentos elegantes e letais, e um arsenal de ferramentas e armadilhas em constante expansão. Enfrente mais de 200 inimigos únicos, desafie chefes lendários e teste seus limites no implacável modo Alma de Aço.",
     "capitura1": "https://m.media-amazon.com/images/I/71mZ8nFrPjL._AC_UF350,350_QL80_.jpg",
     "capitura2": "https://store-images.s-microsoft.com/image/apps.47684.13847644057609868.a4a91f76-8d1c-4e19-aa78-f4d27d2818fb.ac5a198f-72dc-4b62-aa7c-74e82a00192f?w=544&format=jpg",
@@ -71,6 +72,7 @@
   {
     "name": "EPSXE Emulador PS1",
     "Tamanho": "12 MB",
+    "categoria": "Emuladores",
     "description": "ePSXe para Android é um emulador de Playstation (PSX e PSOne)...",
     "capitura1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd74BRW8i4s40B72WV8ziH-PkAwlbFJNUnb_q8vQIJ3K42fQTJjGjnJFpv&s=10",
     "capitura2": "https://i.ytimg.com/vi/SklOL287FAY/maxresdefault.jpg",
@@ -84,6 +86,7 @@
   {
     "name": "XCIPTV",
     "Tamanho": "99 MB",
+    "categoria": "Vídeo",
     "description": "XCIPTV tem dois reprodutores de mídia integrados: ExoPlayer e VLC Player...",
     "capitura1": "https://play-lh.googleusercontent.com/23ynMyyMBaZPwDNtQUghtBhJ7NBF8phluYlqOt0ztpSLhulYevTtvM3lg4_UxYzBCFStTSvw7iUs9TbbrrheFQ=w526-h296-rw",
     "capitura2": "https://static.wixstatic.com/media/c801ef_b0a2d2d8aa224c85a5dcf6e26ced01d1~mv2.png/v1/fill/w_568,h_378,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/c801ef_b0a2d2d8aa224c85a5dcf6e26ced01d1~mv2.png",
@@ -97,6 +100,7 @@
   {
     "name": "MT Manager",
     "Tamanho": "30 MB",
+    "categoria": "Ferramentas",
     "description": "MT Manager é um dos mais populares editores de arquivos APK para Android...",
     "capitura1": "https://img.utdstc.com/screen/62c/f88/62cf8880526703bec1cdce2ab14436316ae8070f59b8c665b446ac5747e7096a:600",
     "capitura2": "https://img.utdstc.com/screen/dda/d2f/ddad2fee30c9468916cc0defbf90c08add09101e7c8a65dad92cc42515c8a2f8:600",
@@ -110,6 +114,7 @@
   {
     "name": "GTA: San Andreas",
     "Tamanho": "2,5 GB",
+    "categoria": "Ação",
     "description": "É começo dos anos 90. Carl volta para casa. A sua mãe foi assassinada, a sua família ruiu e seus amigos de infância estão todos indo em direção ao desastre.n\n\nAssim que volta ao quarteirão, um bando de policiais corruptos o culpam por um homicídio. CJ é forçado a entrar em uma jornada que o leva por todo o estado de San Andreas para salvar a sua família e tomar o controle das ruas.\n\nA Rockstar Games traz o seu maior lançamento para dispositivos móveis até o momento, com um grande mundo aberto que cobre o estado de San Andreas e as suas três maiores cidades – Los Santos, San Fierro e Las Venturas – com maior fidelidade visual e mais de 70 horas de jogo.",
     "capitura1": "https://minireview.io/common/uploads/review/33abfb3b4d8a372cb5fedd5249409c58.jpg",
     "capitura2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_6fMcTAn-VHhEPbwSPaTlMf03S7MK6O_Ky-fVv831sQ&s=10",
@@ -123,6 +128,7 @@
   {
     "name": "APKTool M",
     "Tamanho": "16 MB",
+    "categoria": "Ferramentas",
     "description": "Apktool M é um aplicativo que permite editar qualquer APK diretamente do seu dispositivo Android. Você terá um grande número de ferramentas à sua disposição, por exemplo, para alterar o ícone ou o nome de um aplicativo antes de instalar, ou até mesmo modificar a versão do arquivo ou o SDK mínimo necessário para usar o aplicativo. E tudo isso é muito fácil de fazer.",
     "capitura1": "https://img.utdstc.com/screen/877/99d/87799d9054d80ed9c10d8d74f651455938810eaa0b63d09454343eb258450272:600",
     "capitura2": "https://img.utdstc.com/screen/b71/8c8/b718c885a7067a476c925e61eeefe86bface156985cc8f30d9a7480a0785b2fc:600",
