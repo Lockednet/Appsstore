@@ -138,5 +138,19 @@
     "kind": "APK",
     "icon": "https://img.utdstc.com/icon/bdd/ed2/bdded28314d944e1842b4126ed851944f4e6520264ebf5c297a04bdd31ae73bf:600",
     "download": "https://mega.nz/file/s690WDjJ#kgV1683hGGQPHk3cyXpcIooSWyAgsQG1hCRajHcNU4o"
+  },
+  {
+    "name": "PPSSPP GOLD Emulador PSP",
+    "Tamanho": "35 MB",
+    "categoria": "Emuladores",
+    "description": "Jogue jogos PSP no seu dispositivo Android, com visuais e recursos aprimorados!\n\nJogue jogos PSP no seu dispositivo Android, com gráficos aprimorados e recursos extras!\n\nO PPSSPP Gold é o melhor, original e único emulador de PSP para Android. Ele roda muitos jogos, mas dependendo da potência do seu dispositivo, nem todos podem rodar na velocidade máxima. .",
+    "capitura1": "https://play-lh.googleusercontent.com/Jjk6eZKtsWGnKZK5qbqfJXxxFz8O3hUqfweqJW3vJZ3ULqgC4V4U4fH8tbW4mwOrPlY=w526-h296-rw",
+    "capitura2": "https://i.ytimg.com/vi/nNDHkzCSgz4/maxresdefault.jpg",
+    "capitura3": "https://img.utdstc.com/screen/977/306/9773066db8e146f943d2886d45a315f0d0f542df9e42daba33c39ce2e6607f70:600",
+    "package": "org.ppsspp.ppssppgold",
+    "downloads": "1M+",
+    "kind": "APK",
+    "icon": "https://play-lh.googleusercontent.com/55DU6Ue1AKtzDsQWvsasyxXDASCE3vA7FebJm_8JW6O8pYi7ScPXGtqsvU0CRh7Tfa4sQPUMYdFKGAwChVR-PrM=w240-h480-rw",
+    "download": "https://mega.nz/file/ZjN2TJKY#fgWVVavk1knGv0ZCX7EOsjzpJgNwkE17hj4pcK0tAUI"
   }
 ]
